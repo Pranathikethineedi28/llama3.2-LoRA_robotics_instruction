@@ -1,0 +1,15 @@
+# Model/checkpoint artifacts
+llama3_lora_output/
+checkpoint-*/
+*.safetensors
+
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebook
+.ipynb_checkpoints/
