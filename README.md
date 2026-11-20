@@ -1,4 +1,3 @@
-[READMEnew.md](https://github.com/user-attachments/files/31027365/READMEnew.md)
 # Llama 3.2 1B Instruct --- Parameter-Efficient Fine-Tuning with LoRA
 
 A hands-on implementation of **supervised instruction fine-tuning
